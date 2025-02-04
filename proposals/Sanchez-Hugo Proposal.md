@@ -1,10 +1,11 @@
-**Hugo Sanchez Internship Research Proposal:**  
+## Hugo Sanchez Internship Research Proposal:  
 **Character Creation and Asset Development for Blended Shadow Puppet Game Environment in Unreal Engine**  
 
 **Project Supervisor:** David B. Smith  
 **Intern:** Hugo Sanchez  
 **Major:** Emerging Media Technology  
 **Collaborating Intern:** Rodrigo Vega  
+**Date**: Spring 2025
 
 ---
 
