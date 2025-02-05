@@ -1,4 +1,4 @@
-# Unreal-BSP
+# Shadow_Puppet_Unreal
 Developing a Virtual Blended Shadow Puppet World in the Unreal Engine
 
 # Meta-Project Proposal: Virtual World Development for Balanced Blended Space (BBS)
