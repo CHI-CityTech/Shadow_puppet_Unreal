@@ -1,6 +1,8 @@
 # Shadow_Puppet_Unreal
 Developing a Virtual Blended Shadow Puppet World in the Unreal Engine
 
+**Current Status**: Prototype implementation developed with Unreal Engine 5 by Rodrigo Vega (Spring 2025)
+
 # Meta-Project Proposal: Virtual World Development for Balanced Blended Space (BBS)
 
 ## Overview
